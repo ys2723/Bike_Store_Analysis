@@ -11,3 +11,6 @@ This project is a comprehensive data analysis of a bike store using SQL Server M
 - Total Riders: Summary of the total number of riders.
 
 All the information is visualized in an interactive Power BI dashboard, providing a clear and detailed view of Raptor bike store's performance.
+
+## Dashboard: 
+![
