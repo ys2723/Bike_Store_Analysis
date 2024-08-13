@@ -9,3 +9,5 @@ This project is a comprehensive data analysis of a bike store using SQL Server M
 - Key Performance Indicators (KPIs): Tracking average profit and revenue over time.
 - Profit Margin: Calculation of profit margins.
 - Total Riders: Summary of the total number of riders.
+
+All the information is visualized in an interactive Power BI dashboard
