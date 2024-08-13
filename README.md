@@ -13,4 +13,4 @@ This project is a comprehensive data analysis of a bike store using SQL Server M
 All the information is visualized in an interactive Power BI dashboard, providing a clear and detailed view of Raptor bike store's performance.
 
 ## Dashboard: 
-![
+![]
